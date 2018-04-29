@@ -1,0 +1,16 @@
+# Exclude Eclipse's files
+.classpath                          
+.project
+.settings/
+bin/
+# Exclude IntelliJ's files
+.idea/                              
+*.iml
+*.ipr
+# Exclude Maven's output directory
+target/                             
+# Exclude any JARs and built class files (set them up with Maven instead)
+*.jar              
+*.class                 
+/target/
+/test-output
