@@ -1,13 +1,13 @@
 package com.fxperiments;
 
-import static com.fxperiments.NumUtils.*;
+import static com.fxperiments.ThirteenUtil.*;
 import static org.junit.Assert.*;
 
 import java.math.BigDecimal;
 
 import org.junit.Test;
 
-public class NumUtilsTest {
+public class ThirteenUtilTest {
 	
 	@Test
 	public void isThirteenBytePrimTest(){

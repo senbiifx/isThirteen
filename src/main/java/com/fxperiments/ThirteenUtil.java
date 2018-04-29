@@ -1,6 +1,6 @@
 package com.fxperiments;
 
-public class NumUtils {
+public class ThirteenUtil {
 	
 	private static final Integer THIRTEEN = Integer.valueOf(13);
 	
