@@ -35,6 +35,7 @@ public class ThirteenUtil {
 	
 	public static boolean isThirteen(Object num){
 		if(num instanceof Number) {
+			//hi
 			return isThirteen((Number) num);
 		} else {
 			return false;
